@@ -216,6 +216,7 @@ kwayland-integration
 kwin
 kwrite
 kwrited
+lastpass-cli
 less
 lib32-flex
 lib32-libcanberra
