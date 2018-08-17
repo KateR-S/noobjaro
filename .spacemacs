@@ -1,1 +1,0 @@
-/home/k8/.spacemacs
